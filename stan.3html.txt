@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>COFISTECH GLOBAL COMPANY</title>
+</head>
+<body>
+
+<h1>HTML Links</h1>
+<p>Brief history about Confistech lobal Company:</p>
+<p2>Confistech Global Company is a company born out of necesity to handle all sorts of business<br>
+invoving sales,supply and instalation of buiding materials<br>.</p>
+<a
+    href="https://www.confistech.com">this is a link</a>
+<img src="a.jpg"
+alt="confistech.com" width="400"
+height="120"
+
+
+</body>
+</html>
